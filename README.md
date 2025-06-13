@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alok Singh Negi</h1>
+<h3 align="center">A curious Full-Stack Developer & DSA Enthusiast</h3>
 
-<!--
-**aloknegi786/aloknegi786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a Computer Science undergrad
+- 🌱 Currently deep diving into **Graph Algorithms** and **Backend Systems**
+- 🛠️ Building: A Code colaborator tool with the MERN stack
+- 💬 Ask me about **React, Node.js, MongoDB, DSA**
+- 🚀 Aspiring to become a skilled systems developer and open source contributor
+
+---
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-grey?style=flat-square&logo=express)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aloknegi&show_icons=true&theme=dracula" alt="Alok's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aloknegi&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 Problem Solving Profiles
+
+- 🟨 [LeetCode]((https://leetcode.com/u/sledger10/)) – 600+ problems solved
+- 🟪 [Codeforces](https://codeforces.com/profile/SLEDGER) – Pupil (1385)
+- 🟧 [CodeChef](https://www.codechef.com/users/aloknegi786) – 3★ | 1600+ rating
+- 🟩 [ATcoder]((https://atcoder.jp/users/theAlok)) – 8 Kyu
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]((https://www.linkedin.com/in/alok-negi-b08a61286/))
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aloksinghnegi005@example.com)
+
+---
+
+> “The best way to learn is by doing — so here I am, doing and sharing.”
