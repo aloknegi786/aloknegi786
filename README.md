@@ -32,17 +32,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aloknegi&show_icons=true&theme=dracula" alt="Alok's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aloknegi&theme=dracula&hide_border=true" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=aloknegi&theme=dracula&hide_border=true" alt="GitHub Streak" /> -->
 </p>
 
 ---
 
 ### 🧠 Problem Solving Profiles
 
-- 🟨 [LeetCode]((https://leetcode.com/u/sledger10/)) – 600+ problems solved
-- 🟪 [Codeforces](https://codeforces.com/profile/SLEDGER) – Pupil (1385)
+- 🟨 [LeetCode](https://leetcode.com/u/sledger10/) – 600+ problems solved | Knight (1858)
+- 🟪 [Codeforces](https://codeforces.com/profile/SLEDGER) – 350+ problems solved | Pupil (1385)
 - 🟧 [CodeChef](https://www.codechef.com/users/aloknegi786) – 3★ | 1600+ rating
-- 🟩 [ATcoder]((https://atcoder.jp/users/theAlok)) – 8 Kyu
+- 🟩 [ATcoder](https://atcoder.jp/users/theAlok) – 8 Kyu
 
 ---
 
