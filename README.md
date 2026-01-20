@@ -39,9 +39,9 @@
 
 ### 🧠 Problem Solving Profiles
 
-- 🟨 [LeetCode](https://leetcode.com/u/sledger10/) – 600+ problems solved | Knight (1858)
-- 🟪 [Codeforces](https://codeforces.com/profile/SLEDGER) – 350+ problems solved | Pupil (1385)
-- 🟧 [CodeChef](https://www.codechef.com/users/aloknegi786) – 3★ | 1600+ rating
+- 🟨 [LeetCode](https://leetcode.com/u/sledger10/) – 750+ problems solved | Knight (1858)
+- 🟪 [Codeforces](https://codeforces.com/profile/SLEDGER) – 490+ problems solved | Pupil (1385)
+- 🟧 [CodeChef](https://www.codechef.com/users/aloknegi786) – 3★ | 1700+ rating
 - 🟩 [ATcoder](https://atcoder.jp/users/theAlok) – 8 Kyu
 
 ---
