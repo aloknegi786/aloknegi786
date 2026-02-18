@@ -7,8 +7,7 @@
 
 - 🎓 I'm a Computer Science undergrad
 - 🌱 Currently deep diving into **Graph Algorithms** and **Backend Systems**
-- 🛠️ Building: A Code colaborator tool with the MERN stack
-- 💬 Ask me about **React, Node.js, MongoDB, DSA**
+- 💬 Ask me about **ReactJs, NextJs, Node.js, Express, MongoDB, DSA**
 - 🚀 Aspiring to become a skilled systems developer and open source contributor
 
 ---
