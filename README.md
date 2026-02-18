@@ -28,10 +28,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=aloknegi&show_icons=true&theme=dracula" height="180" alt="Alok's GitHub stats" /> -->
-  <img src="https://streak-stats.demolab.com?user=aloknegi&theme=dracula&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+<!--  <img src="https://streak-stats.demolab.com?user=aloknegi&theme=dracula&hide_border=true" height="180" alt="GitHub Streak" />
+</p> -->
 
 ---
 
